@@ -1,0 +1,11 @@
+tensorflow==2.13.0
+fastapi
+uvicorn
+gunicorn==21.2.0
+uvloop
+httptools
+python-multipart
+pillow
+tensorflow-serving-api==2.13.0
+matplotlib
+numpy
